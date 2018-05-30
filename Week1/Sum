@@ -1,0 +1,8 @@
+# import sys
+# digit_string = sys.argv[1]
+
+digit_string = input()
+sum_int = 0
+for i in digit_string:
+    sum_int += int(i)
+print(sum_int)
