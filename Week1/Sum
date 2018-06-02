@@ -1,5 +1,4 @@
-# import sys
-# digit_string = sys.argv[1]
+# Посчитать сумму чисел в строке
 
 digit_string = input()
 sum_int = 0

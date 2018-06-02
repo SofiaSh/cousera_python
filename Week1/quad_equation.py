@@ -1,3 +1,5 @@
+#Решатель квадратных уравнений
+
 from math import sqrt
 a = float(input())
 b = float(input())
